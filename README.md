@@ -2,9 +2,9 @@
 
 ## How to run
 
-### Basic usage
+## The binary is available on the [Releases](https://github.com/hashforge-pool/hashforge-miner/releases) page.
 
-The binary is available on the "Releases" page.
+### Basic usage
 
 `./hashforge run-gpu [OPTIONS] --algo <ALGO> --pool <POOL> --worker <WORKER> --address <ADDRESS>`
 
