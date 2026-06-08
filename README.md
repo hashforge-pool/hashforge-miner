@@ -1,7 +1,5 @@
 # HashForge high performance CUDA GPU miner
 
-## How to run
-
 ## The binary is available on the [Releases](https://github.com/hashforge-pool/hashforge-miner/releases) page.
 
 ### Basic usage
